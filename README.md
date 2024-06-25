@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Mohammad Rahmanian, a B.Sc computer engineering student at Amirkabir University of Technology. I have a strong passion for Machine Learning and Big Data, and I am skilled in various programming languages and technologies.
+Hello! I'm Mohammad Rahmanian, a B.Sc computer engineering student at Amirkabir University of Technology. I have a strong passion for Big Data and Machine Learning, and I am skilled in various programming languages and technologies.
 
 ## Education
 
@@ -11,8 +11,8 @@ Hello! I'm Mohammad Rahmanian, a B.Sc computer engineering student at Amirkabir 
 
 ## Interests
 
-- **Machine Learning**
 - **Big Data**
+- **Machine Learning**
 - **Back-end Development**
 
 ## Skills
