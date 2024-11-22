@@ -21,6 +21,7 @@ I enjoy using:
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python"/>
+    <img alt="Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=ApacheSpark"/>
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java"/>
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c"/>
@@ -32,7 +33,6 @@ I enjoy using:
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
   <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop"/>
-  <img alt="Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=ApacheSpark"/>
 </p>
 
 ## Connect With Me On
